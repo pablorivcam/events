@@ -33,7 +33,7 @@
 
         <!-- Package versions (except those defined in "profiles" section) -->
         <commonsDbcp.version>1.2</commonsDbcp.version>
-        <junit.version>4.10</junit.version>
+        <junit.version>4.13.1</junit.version>
         <servletApi.version>2.3</servletApi.version>
         <commons.httpclient.version>3.1</commons.httpclient.version>
         <jdom2.version>2.0.5</jdom2.version>
